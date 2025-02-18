@@ -1,37 +1,28 @@
+<?php 
+
+class Config
 {
-  "urls": [
-    {
-      "url": "https://gitlab.com/lisenchen168/bird/-/raw/main/%E9%A5%AD%E5%A4%AA%E7%A1%ACjson%E9%85%8D%E7%BD%AE241025.txt",
-      "name": "首页选文采尖尖"
-    },
-    {
-      "url": "http://74.120.175.78/JK/XYQTVBox/dj.json",
-      "name": "短剧大全"
-    },
-    {
-      "url": "https://mp-064c2f8f-83e1-4bd3-a4a5-103f278b40df.cdn.bspapp.com/cloudstorage/2e02e908-df48-4d0d-896c-b784e116f4c5.bmp",
-      "name": "观影进萌米"
-    },
-    {
-      "url": "https://12448.kstore.space/Baipiao/tvbox/%E7%99%BD%E5%AB%964K.json",
-      "name": "看4K白嫖皮虾"
-    },
-      {
-      "url": "http://我不是.摸鱼儿.com",
-      "name": "摸鱼大虾(🛩️)"
-    },
-    {
-      "url": "https://gitlab.com/lisenchen168/bird/-/raw/main/JCG/AD18AD.json",
-      "name": "寰球影院"
-    },{
-      "name": "🈲区芳龄18直连",
-      "url": "https://gitlab.com/lisenchen168/bird/-/raw/main/dalaopo.json"
-    },{
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/AngelkookLJ/Ak-tvbox/main/Akbox.json",
-      "name": "🈲区MISSmv(🛩️)"
-    },
-    {
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/cysk003/xiongjian83-TvBox/main/X.json",
-      "name": "4k多效(🛩️)"
-    }  ]
+  // 91地址，可自己找免翻墙地址
+  static $url = 'https://91porn.com/email_verify.php';
+  // static $url = '627.workarea7.live';
+  // static $url = 'e528.mbaudet.cl';
+
+  // 视频存放路径
+  static $path = __DIR__.'/videos';
+  // static $path = '/Users/ooxx/Downloads/videos';
+
+  // 代理
+  // static $proxy = 'http://127.0.0.1:1087';
+  // static $proxy = 'socks5://127.0.0.1:1086';
+
+  // 运行91all.php需要下载的列表地址以及页码数(只需要提取 "?" 以后的内容)
+  static $all_lists = [
+    'category=top&viewtype=basic' => [1, 10],     //本月最热
+    'category=mf&viewtype=basic' => [1, 5],       //收藏最多
+    'category=md&viewtype=basic' => 4,            //收藏最多
+  ];
+
+  // 内存限制，越大越好
+  static $memory_limit = '512M';
+
 }
