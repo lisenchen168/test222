@@ -456,7 +456,7 @@
         "分类url": "https://javmenu.cc/zh/{cateId}/online?page={catePg}",
         "分类": "有码$censored#无码$uncensored#欧美$western#成人动画$hanime#国产$chinese"
       }
-    }，
+    },
     {
       "key": "javbar",
       "name": "爱萌萌👍JAVBar",
@@ -4514,6 +4514,7 @@
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ]
 }
+
 
 
 
