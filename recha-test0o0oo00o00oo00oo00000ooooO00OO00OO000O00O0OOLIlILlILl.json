@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/xyqxbpq.jar",
+  "spider": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
   "headers": [
     {
       "host": "aosikazy.com",
@@ -14,7 +14,7 @@
       "key": "py_xvd.py",
       "name": "⏭｜xvideos无界｜PYTHON",
       "type": 3,
-      "api": "./py/xvd-s.py",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/fastbuild7099/123/refs/heads/main/py/xvd-s.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -23,7 +23,7 @@
       "key": "py_phb.py",
       "name": "⏭｜Porn风影hub(new)｜PYTHON",
       "type": 3,
-      "api": "./py/phb.py",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/fastbuild7099/123/refs/heads/main/py/phb.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -35,7 +35,7 @@
       "changeable": 1,
       "filterable": 1,
       "api": "csp_XBPQ",
-      "jar": "./jar/xyqxbpq.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
       "style": {"ratio": 1.7},
       "ext": {
         "分类url": "http://gcmd.cc/index.php/vod/show/class/{class}/id/{cateId}/page/{catePg}.html",
@@ -50,10 +50,10 @@
       "name": "PG｜配置中心",
       "type": 3,
       "api": "csp_Config",
-      "jar": "./jar/pg.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/pg.jar",
       "searchable": 0,
       "changeable": 0,
-      "ext": "./jar/tokenm.json",
+      "ext": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/tokenm.json",
       "style": {"type": "rect", "ratio": 1.5}
     },
     {
@@ -93,7 +93,7 @@
       "key": "py_花都",
       "name": "⏭｜花都｜PYTHON",
       "type": 3,
-      "api": "./py/花都.py",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/fastbuild7099/123/refs/heads/main/py/花都.py",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
@@ -103,7 +103,7 @@
       "key": "py_lav.py",
       "name": "⏭｜LAV｜PYTHON",
       "type": 3,
-      "api": "./py/lav.py",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/fastbuild7099/123/refs/heads/main/py/lav.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -112,19 +112,19 @@
       "key": "py_推特",
       "name": "⏭｜推特｜PYTHON",
       "type": 3,
-      "api": "./py/py_推特.py",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/fastbuild7099/123/refs/heads/main/py/py_推特.py",
       "style": {"type": "rect", "ratio": 1.5}
-    },
+    }，
     {
       "key": "py_rou",
       "name": "⏭｜Rou(辰)｜PYTHON"，
       "type": 3,
-      "api": "./py/py_rou.py",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/fastbuild7099/123/refs/heads/main/py/py_rou.py",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
       "changeable": 0
-    },
+    }，
     {
       "key": "小红书",
       "name": "⏭｜小印书｜PYTHON",
@@ -132,25 +132,25 @@
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
-      "api": "./py/py_小红薯.py",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/fastbuild7099/123/refs/heads/main/py/py_小红薯.py",
       "playerType": 2,
       "filterable": 1
-    },
+    }，
     {
       "key": "py_MissAv",
       "name": "⏭｜MissAv(沐辰)｜PYTHON",
       "type": 3,
-      "api": "./py/py_missav.py",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/fastbuild7099/123/refs/heads/main/py/py_missav.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 1
-    },    
+    }，    
     {
       "key": "py_51吸瓜.py",
       "name": "⏭｜51吸瓜｜PYTHON",
       "type": 3,
-      "api": "./py/51吸瓜.py",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/fastbuild7099/123/refs/heads/main/py/51吸瓜.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -164,14 +164,14 @@
       "quickSearch": 0,
       "filterable": 0,
       "ext": "./json/pornhub.json",
-      "style": {"type": "rect", "ratio": 1.6}
-    },
+      "style": {"type": "rect"， "ratio": 1.6}
+    }，
     {
       "key": "Zuise",
       "name": "⏭｜最",
       "type": 3,
       "api": "csp_Zuise",
-      "jar": "./jar/pg.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/pg.jar",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
@@ -182,7 +182,7 @@
       "key": "Xhm",
       "name": "⏭｜小黃書",
       "type": 3,
-      "api": "./py/py_xhm.py",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/fastbuild7099/123/refs/heads/main/py/py_xhm.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -197,7 +197,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "api": "./drpy_js/lf_p2p2_min.js",
-      "jar": "./jar/pg.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/pg.jar",
       "ext": "18+"
     },
     {
@@ -211,7 +211,7 @@
       "style": {"type": "rect", "ratio": 0.8},
       "recordable": 0,
       "api": "https://qu.ax/cLnn.js",
-      "jar": "./jar/pg.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/pg.jar",
       "ext": "18+"
     },
     {
@@ -267,7 +267,7 @@
       "filterable": 1,
       "recordable": 0,
       "api": "csp_Netflav",
-      "jar": "./jar/netflav.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/netflav.jar",
       "ext": "proxy",
       "timeout": 60
     },
@@ -276,7 +276,7 @@
       "name": "飘飘👍Supjav(直連)",
       "type": 3,
       "api": "csp_Supjav",
-      "jar": "./jar/xc.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xc.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -312,7 +312,7 @@
       "name": "飘飘👍JavBus(點選點播才有東西)",
       "type": 3,
       "api": "csp_JavBus",
-      "jar": "./jar/pg.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/pg.jar",
       "ext": "./drpy_libs/tokenm.json$$$https://www.cdnbus.shop",
       "filterable": 1,
       "changeable": 0,
@@ -324,7 +324,7 @@
       "name": "飘飘👍JavDb",
       "type": 3,
       "api": "csp_JavDb",
-      "jar": "./jar/pg.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/pg.jar",
       "ext": "./drpy_libs/tokenm.json$$$1",
       "filterable": 1,
       "changeable": 0,
@@ -336,8 +336,8 @@
       "name": "飘飘👍JAVDAY",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/xyqxbpq.jar",
-      "spider": "./jar/xyqxbpq.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
+      "spider": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
       "ext": {
         "主页url": "https://javday.tv/",
         "直接播放": "1",
@@ -388,7 +388,7 @@
       "key": "csp_XBPQ_JAV目錄大全",
       "name": "飘飘👍JAV大全",
       "type": 3,
-      "jar": "./jar/xyqxbpq.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
@@ -426,7 +426,7 @@
       "name": "飘飘👍JAVBar",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/xyqxbpq.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
       "style": {"type": "rect", "ratio": 1.5},
       "ext": {
         "主页url": "https://javbar.com",
@@ -448,7 +448,7 @@
       "name": "飘飘👍javrate",
       "type": 3,
       "api": "csp_XYQHiker",
-      "jar": "./jar/xyqxbpq.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
@@ -460,7 +460,7 @@
       "name": "飘飘👍SEAJAV(聚合)",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/xyqxbpq.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -499,8 +499,8 @@
       "name": "飘飘👍麻豆-T4",
       "type": 4,
       "api": "https://json.doube.eu.org/app/index.php?site=dbmadou",
-      "jar": "./jar/xyqxbpq.jar",
-      "spider": "./jar/xyqxbpq.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
+      "spider": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
       "filterable": 0,
       "changeable": 0,
       "style": {"type": "rect", "ratio": 1.5}
@@ -521,8 +521,8 @@
       "name": "飘飘👍爱豆传媒",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/xyqxbpq.jar",
-      "spider": "./jar/xyqxbpq.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
+      "spider": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
       "ext": {
         "主页url": "https://rourou.co/",
         "直接播放": "1",
@@ -595,7 +595,7 @@
       "name": "飘飘👍91Pornhub",
       "type": 3,
       "api": "csp_XYQHiker",
-      "jar": "./jar/xyqxbpq.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
@@ -629,7 +629,7 @@
       "name": "飘飘👍91麻豆┃備1",
       "type": 1,
       "api": "https://91md.me/api.php/provide/vod/",
-      "jar": "./jar/pg.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/pg.jar",
       "searchable": 1,
       "quickSearch": 1
     },
@@ -638,7 +638,7 @@
       "name": "飘飘👍91麻豆┃備2",
       "type": 1,
       "api": "http://www.9191md.me/api.php/provide/vod/",
-      "jar": "./jar/pg.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/pg.jar",
       "searchable": 1,
       "quickSearch": 1
     },
@@ -647,7 +647,7 @@
       "name": "飘飘👍91麻豆┃備3",
       "type": 1,
       "api": "http://www.md91.cc/api.php/provide/vod/",
-      "jar": "./jar/pg.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/pg.jar",
       "searchable": 1,
       "quickSearch": 1
     },
@@ -656,7 +656,7 @@
       "name": "飘飘👍91麻豆┃備4",
       "type": 1,
       "api": "http://www.36717.pw/api.php/provide/vod/",
-      "jar": "./jar/pg.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/pg.jar",
       "searchable": 1,
       "quickSearch": 1
     },
@@ -665,7 +665,7 @@
       "name": "飘飘👍91麻豆┃備5",
       "type": 1,
       "api": "http://www.bt4.cc/api.php/provide/vod/",
-      "jar": "./jar/pg.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/pg.jar",
       "searchable": 1,
       "quickSearch": 1
     },
@@ -674,7 +674,7 @@
       "name": "飘飘👍91麻豆┃備6",
       "type": 1,
       "api": "https://md91.cc/api.php/provide/vod/",
-      "jar": "./jar/xc0126.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xc0126.jar",
       "filterable": 1
     },
     {
@@ -683,7 +683,7 @@
       "type": 3,
       "api": "csp_J91",
       "filterable": 1,
-      "jar": "./jar/182.jar"
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/182.jar"
     },
     {
       "key": "csp_XYQHiker_xvideos",
@@ -701,7 +701,7 @@
       "name": "飘飘👍xvideos4",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/xyqxbpq.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
       "ext": {
         "是否开启获取首页数据": "1",
         "首页推荐链接": "https://dpmnmv.xvideos4.hair/vodtype/32.html",
@@ -775,7 +775,7 @@
       "name": "飘飘👍Jable",
       "type": 3,
       "api": "csp_Jable",
-      "jar": "./jar/xc0126.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xc0126.jar",
       "filterable": 1
     },
     {
@@ -783,12 +783,12 @@
       "name": "飘飘👍Jable(海外)",
       "type": 3,
       "api": "csp_Jable",
-      "spider": "./jar/pg-0923.jar",
+      "spider": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/pg-0923.jar",
       "changeable": 1,
       "ext": "127.0.0.1:10072$$$null$$$1",
       "style": {"type": "rect", "ratio": 1.77},
       "timeout": 60,
-      "jar": "./jar/pg-0923.jar"
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/pg-0923.jar"
     },
     {
       "key": "jable",
@@ -796,7 +796,7 @@
       "type": 3,
       "changeable": 1,
       "filterable": 1,
-      "jar": "./jar/xyqxbpq.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
       "api": "csp_XBPQ",
       "ext": {
         "直接播放": "1",
@@ -824,8 +824,8 @@
       "name": "飘飘👍SOAV(點選點播才有東西)",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/xyqxbpq.jar",
-      "spider": "./jar/xyqxbpq.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
+      "spider": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
       "style": {"type": "rect", "ratio": 1.5},
       "ext": {
         "主页url": "https://www.wantav.co/"                                     ,
@@ -859,7 +859,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "api": "csp_XBPQ",
-      "jar": "./jar/xyqxbpq.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
       "ext": {
         "请求头": "User-Agent$MOBILE_UA",
         "编码": "UTF-8",
@@ -877,7 +877,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "recordable": 0,
-      "jar": "./jar/xyqxbpq.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
       "ext": {
         "直接播放": "1",
         "嗅探词": ".m3u8#.mp4",
@@ -1070,7 +1070,7 @@
       "key": "py_4k",
       "name": "飘飘👍4K歐美",
       "type": 3,
-      "api": "./py/4K.py",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/fastbuild7099/123/refs/heads/main/py/4K.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1080,7 +1080,7 @@
       "key": "py_洋馬",
       "name": "飘飘👍洋馬",
       "type": 3,
-      "api": "./py/py_洋马.py",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/fastbuild7099/123/refs/heads/main/py/py_洋马.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1091,7 +1091,7 @@
       "name": "飘飘👍鉴黄师",
       "type": 3,
       "api": "csp_XYQHiker",
-      "spider": "./jar/pg.jar",
+      "spider": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/pg.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
@@ -1105,7 +1105,7 @@
       "changeable": 1,
       "filterable": 1,
       "api": "csp_XBPQ",
-      "jar": "./jar/xyqxbpq.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
       "ext": "./json/色花堂.json"
     },
     {
@@ -1120,7 +1120,7 @@
         "图片": "data-original=\"&&\"",
         "分类": "國產$1#日韓$2#歐美$3#動漫$4#中字$5"
       },
-      "jar": "./jar/xyqxbpq.jar"
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar"
     },
     {
       "key": "csp_XYQHiker_苹果av",
@@ -1138,7 +1138,7 @@
       "name": "飘飘👍辣椒",
       "type": 1,
       "api": "http://api.11bat.com/api.php/provide/vod/",
-      "jar": "./jar/pg.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/pg.jar",
       "searchable": 1,
       "quickSearch": 1
     },
@@ -1156,7 +1156,7 @@
       "name": "飘飘👍紅椒",
       "type": 1,
       "api": "http://apilj.com/api.php/provide/vod/at/json/",
-      "jar": "./jar/pg.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/pg.jar",
       "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
       "recordable": 0,
       "style": {"type": "rect", "ratio": 1.33}
@@ -1166,7 +1166,7 @@
       "name":"飘飘👍送AV采集",
       "type":1,
       "api":"https://api.souavzy.vip/api.php/provide/vod/?ac=list",
-      "jar": "./jar/pg.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/pg.jar",
       "searchable":1,
       "quickSearch":1,
       "filterable":0,
@@ -1177,7 +1177,7 @@
       "name": "飘飘👍大地采集",
       "type": 0,
       "api": "https://dadiapi.com/api.php",
-      "jar": "./jar/pg.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/pg.jar",
       "filterable": 1,
       "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
       "recordable": 0,
@@ -1188,7 +1188,7 @@
       "name": "飘飘👍大地资源",
       "type": 0,
       "api": "http://ddkbo.com/api.php",
-      "jar": "./jar/pg.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/pg.jar",
       "searchable": 1,
       "quickSearch": 1
     },
@@ -1197,7 +1197,7 @@
       "name": "飘飘👍香奶儿资源",
       "type": 0,
       "api": "https://www.gdlsp.com/api/xml.php",
-      "jar": "./jar/pg.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/pg.jar",
       "searchable": 1,
       "quickSearch": 1
     },
@@ -1206,7 +1206,7 @@
       "name": "飘飘👍奶香资源",
       "type": 1,
       "api": "https://Naixxzy.com/api.php/provide/vod/",
-      "jar": "./jar/pg.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/pg.jar",
       "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
       "recordable": 0,
       "style": {"type": "rect", "ratio": 1.33}
@@ -1216,7 +1216,7 @@
       "name": "飘飘👍美少女",
       "type": 0,
       "api": "https://www.msnii.com/api/xml.php",
-      "jar": "./jar/pg.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/pg.jar",
       "searchable": 1,
       "quickSearch": 1
     },
@@ -1225,7 +1225,7 @@
       "name": "飘飘👍色猫资源",
       "type": 1,
       "api": "https://api.maozyapi.com/inc/apijson_vod.php",
-      "jar": "./jar/pg.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/pg.jar",
       "searchable": 1,
       "quickSearch": 1
     },
@@ -1234,7 +1234,7 @@
       "name": "️飘飘👍乐播采集",
       "type": 1,
       "api": "https://lbapi9.com/api.php/provide/vod/",
-      "jar": "./jar/pg.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/pg.jar",
       "playUrl": "",
       "filterable": 1,
       "categories": [
@@ -1247,7 +1247,7 @@
       "name": "飘飘👍番号资源",
       "type": 1,
       "api": "http://fhapi9.com/api.php/provide/vod/",
-      "jar": "./jar/pg.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/pg.jar",
       "searchable": 1,
       "quickSearch": 1
     },
@@ -1256,7 +1256,7 @@
       "name": "️飘飘👍番號",
       "type": 4,
       "api": "./json/00title05152.json",
-      "jar": "./jar/xc0126.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xc0126.jar",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
@@ -1266,7 +1266,7 @@
       "name": "飘飘👍13AV.COM",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/xyqxbpq.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
       "style": {"type": "rect", "ratio": 1.5},
       "ext": {
         "主页url": "https://13av.com/",
@@ -1322,7 +1322,7 @@
       "name": "飘飘👍155专场",
       "type": 1,
       "api": "https://155api.com/api.php/provide/vod/",
-      "jar": "./jar/pg.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/pg.jar",
       "playUrl": "",
       "filterable": 1,
       "categories": [
@@ -1368,7 +1368,7 @@
       "name": "飘飘👍玉兔资源",
       "type": 1,
       "api": "https://apiyutu.com/api.php/provide/vod/",
-      "jar": "./jar/pg.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/pg.jar",
       "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
       "recordable": 0,
       "style": {"type": "rect", "ratio": 1.33}
@@ -1388,7 +1388,7 @@
       "key": "py_dsys",
       "name": "飘飘👍蹦迪(點選點播才有東西)",
       "type": 3,
-      "api": "./py/py_dsys.py",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/fastbuild7099/123/refs/heads/main/py/py_dsys.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1410,8 +1410,8 @@
       "name": "飘飘👍AV影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/xyqxbpq.jar",
-      "spider": "./jar/xyqxbpq.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
+      "spider": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
       "style": {"type": "rect", "ratio": 1.5},
       "ext": {
         "图片": "data-src=\"&&\"",
@@ -1425,7 +1425,7 @@
       "name": "飘飘👍草溜资源",
       "type": 1,
       "api": "https://www.caoliuzyw.com/api.php/provide/vod/at/json/",
-      "jar": "./jar/pg.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/pg.jar",
       "searchable": 1,
       "quickSearch": 1
     },
@@ -1529,8 +1529,8 @@
       "name": "飘飘👍TaiAv2",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/xyqxbpq.jar",
-      "spider": "./jar/xyqxbpq.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
+      "spider": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
       "style": {"type": "rect", "ratio": 1.5},
       "ext": {
         "主页url": "https://taiav.com/"                                     ,
@@ -1582,7 +1582,7 @@
       "name": "️飘飘👍女優",
       "type": 4,
       "api": "./json/00title05151.json",
-      "jar": "./jar/xc0126.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xc0126.jar",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
@@ -1592,7 +1592,7 @@
       "name": "飘飘👍精东资源",
       "type": 1,
       "api": "http://chujia.cc/api.php/provide/vod/",
-      "jar": "./jar/pg.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/pg.jar",
       "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
       "recordable": 0,
       "style": {"type": "rect", "ratio": 1.33}
@@ -1602,7 +1602,7 @@
       "name": "Airav",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/xyqxbpq.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
       "style": {"type": "rect", "ratio": 1.485},
       "ext": {
         "直接播放": 1,
@@ -1615,7 +1615,7 @@
       "name": "飘飘👍奶很大",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/xyqxbpq.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
       "filterable": 0,
       "ext": "./json/奶很大.json"
     },
@@ -1634,14 +1634,14 @@
       "type": 3,
       "api": "csp_HiPianZhiBo",
       "filterable": 1,
-      "jar": "./jar/182.jar"
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/182.jar"
     },
     {
       "key": "HuaDu",
       "name": "飘飘👍好多",
       "type": 3,
       "api": "csp_HuaDu",
-      "jar": "./jar/pg.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/pg.jar",
       "changeable": 1
     },
     {
@@ -1649,7 +1649,7 @@
       "name": "飘飘👍精品",
       "type": 1,
       "api": "https://www.jingpinx.com/api.php/provide/vod/?ac=list",
-      "jar": "./jar/pg.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/pg.jar",
       "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
       "recordable": 0,
       "style": {"type": "rect", "ratio": 1.33}
@@ -1660,7 +1660,7 @@
       "type": 3,
       "filterable": 1,
       "api": "csp_XBPQ",
-      "jar": "./jar/xyqxbpq.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
       "ext": {
         "分类url": "https://kanav.info/index.php/vod/type/id/{cateId}.html",
         "分类"   : "中文字幕$1#日韩有码$2#日韩无码$3#国产AV$4#流出自拍$22#动漫番剧$20"
@@ -1671,7 +1671,7 @@
       "name": "飘飘👍老色逼",
       "type": 1,
       "api": "https://apilsbzy1.com/api.php/provide/vod/",
-      "jar": "./jar/pg.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/pg.jar",
       "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
       "recordable": 0,
       "style": {"type": "rect", "ratio": 1.33}
@@ -1681,8 +1681,8 @@
       "name": "飘飘👍玩偶妹妹",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/xyqxbpq.jar",
-      "spider": "./jar/xyqxbpq.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
+      "spider": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
       "filterable": 1,
       "ext": {
         "主页url": "https://urcccg.dbtav9.today/cn/home/web/",
@@ -1708,7 +1708,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "style": {"ratio": 1.7},
-      "jar": "./jar/xyqxbpq.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
       "ext": {
         "数组": "<section&&</section",
         "副标题": "添加时间:&&</span>",
@@ -1735,7 +1735,7 @@
       "changeable": 1,
       "filterable": 1,
       "api": "csp_XBPQ",
-      "jar": "./jar/xyqxbpq.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
       "ext": {
         "分类url": "https://av.gl/avtype/{cateId}-{catePg}.html",
         "分类": "日本有碼$Censored#日本無碼$Uncensored#FC2$FC2-PPV#無碼破解$Mosaic_Removed#中文字幕$CHN_SUB#MGS動画$MGS#寫真$Adult_IDOL#國產$Asian_Amateur#歐美成人$Western_Porn"
@@ -1746,7 +1746,7 @@
       "name": "最色",
       "type": 3,
       "api": "csp_Zuise",
-      "jar": "./jar/pg.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/pg.jar",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
@@ -1758,7 +1758,7 @@
       "name": "飘飘👍最色影视",
       "type": 4,
       "api": "http://zhangqun66.com/doll.php",
-      "jar": "./jar/fm.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/fm.jar",
       "searchable": 1,
       "changeable": 0
     },
@@ -1767,7 +1767,7 @@
       "name": "飘飘👍色色影视",
       "type": 4,
       "api": "http://zhangqun66.com/228.php",
-      "jar": "./jar/fm.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/fm.jar",
       "searchable": 1,
       "changeable": 0
     },
@@ -1776,8 +1776,8 @@
       "name": "飘飘👍天美",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/xyqxbpq.jar",
-      "spider": "./jar/xyqxbpq.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
+      "spider": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
       "ext": {
         "搜索链接": "http://www.xbyc.cc/index.php/vod/search/page/{pg}/wd/{wd}.html",
         "数组": "\"box-item\"&&</em>",
@@ -1793,14 +1793,14 @@
       "name": "飘飘👍优异资源",
       "type": 1,
       "api": "https://a.uezy.pw/api.php/provide/vod/",
-      "jar": "./jar/pg.jar"
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/pg.jar"
     },
     {
       "key": "鲨鱼资源",
       "name": "飘飘👍鲨鱼资源",
       "type": 1,
       "api": "https://shayuapi.com/api.php/provide/vod/",
-      "jar": "./jar/pg.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/pg.jar",
       "changeable": 0,
       "filterable": 1
     },
@@ -1819,8 +1819,8 @@
       "name": "飘飘👍高清黑料3",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/xyqxbpq.jar",
-      "spider": "./jar/xyqxbpq.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
+      "spider": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
       "filterable": 1,
       "ext": {
         "发布地址"  : "https://xxxxxxav3.com"                        ,
@@ -1847,7 +1847,7 @@
       "changeable": 1,
       "filterable": 1,
       "api": "csp_XBPQ",
-      "jar": "./jar/xyqxbpq.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
       "style": {"ratio": 1.7},
       "ext": {
         "搜索url": "http://gcmd.cc/index.php/vod/search/page/{pg}/wd/{wd}.html",
@@ -1861,14 +1861,14 @@
       "name": "飘飘👍湿乐园",
       "type": 1,
       "api": "https://xxavs.com/api.php/provide/vod/",
-      "jar": "./jar/pg.jar"
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/pg.jar"
     },
     {
       "key": "csp_XYQHiker_小丑撸",
       "name": "飘飘👍小丑撸",
       "type": 3,
       "api": "csp_XYQHiker",
-      "spider": "./jar/pg.jar",
+      "spider": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/pg.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
@@ -1880,7 +1880,7 @@
       "name": "飘飘👍正妹AV(點選點播才有東西)",
       "type": 3,
       "api": "csp_XYQHiker",
-      "spider": "./jar/pg.jar",
+      "spider": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/pg.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
@@ -1892,7 +1892,7 @@
       "name": "飘飘👍有爱爱uaa(點選點播才有東西)",
       "type": 3,
       "api": "csp_XYQHiker",
-      "spider": "./jar/pg.jar",
+      "spider": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/pg.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
@@ -1905,7 +1905,7 @@
       "name": "飘飘👍朱古力",
       "type": 3,
       "api": "csp_XYQHiker",
-      "spider": "./jar/pg.jar",
+      "spider": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/pg.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
@@ -1917,7 +1917,7 @@
       "name": "飘飘👍杏吧视频",
       "type": 3,
       "api": "csp_XYQHiker",
-      "spider": "./jar/pg.jar",
+      "spider": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/pg.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
@@ -1929,7 +1929,7 @@
       "name": "飘飘👍丽丽AV(點選點播才有東西)",
       "type": 3,
       "api": "csp_XYQHiker",
-      "spider": "./jar/pg.jar",
+      "spider": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/pg.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
@@ -1941,7 +1941,7 @@
       "name": "飘飘👍紫色成人",
       "type": 3,
       "api": "csp_XYQHiker",
-      "spider": "./jar/pg.jar",
+      "spider": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/pg.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
@@ -1953,7 +1953,7 @@
       "name": "飘飘👍鲨鱼av",
       "type": 3,
       "api": "csp_XYQHiker",
-      "spider": "./jar/pg.jar",
+      "spider": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/pg.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
@@ -1965,8 +1965,8 @@
       "name": "飘飘👍农夫与蛇",
       "type": 3,
       "api": "csp_XBPQ",
-      "spider": "./jar/pg.jar",
-      "jar": "./jar/xyqxbpq.jar",
+      "spider": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/pg.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
       "style": {"type": "rect", "ratio": 1.5},
       "ext": {
         "主页url": "https://nfsf8kj.nfsf-a2.buzz/go",
@@ -1985,8 +1985,8 @@
       "name": "飘飘👍蜜桃影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "spider": "./jar/pg.jar",
-      "jar": "./jar/xyqxbpq.jar",
+      "spider": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/pg.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
       "ext": {
         "二次截取": "class=\"block-post&&align=\"center",
         "数组": "target=\"_blank&&class=\"info-post",
@@ -2006,7 +2006,7 @@
       "name": "飘飘👍 AVMobTV",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/xyqxbpq.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -2031,7 +2031,7 @@
       "name": "飘飘👍神社影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/xyqxbpq.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -2055,7 +2055,7 @@
     {
       "key": "流氓兔",
       "name": "飘飘👍流氓兔",
-      "jar": "./jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -2081,7 +2081,7 @@
     {
       "key": "果冻破解版",
       "name": "飘飘👍果冻破解",
-      "jar": "./jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -2110,7 +2110,7 @@
       "name": "飘飘👍百香草",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -2136,7 +2136,7 @@
       "name": "飘飘👍风流",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -2190,7 +2190,7 @@
       "name": "飘飘👍探探资源",
       "type": 1,
       "api": "https://apittzy.com/api.php/provide/vod/",
-      "jar": "./jar/pg.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/pg.jar",
       "searchable": 1,
       "quickSearch": 1
     },
@@ -2199,7 +2199,7 @@
       "name": "飘飘👍森林资源",
       "type": 1,
       "api": "https://slapibf.com/api.php/provide/vod/",
-      "jar": "./jar/pg.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/pg.jar",
       "searchable": 1,
       "quickSearch": 1
     },
@@ -2208,7 +2208,7 @@
       "name": "飘飘👍白嫖资源",
       "type": 0,
       "api": "https://www.kxgav.com/api/xml.php",
-      "jar": "./jar/pg.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/pg.jar",
       "changeable": 0,
       "filterable": 1
     },
@@ -2217,7 +2217,7 @@
       "name": "飘飘👍丝袜资源",
       "type": 1,
       "api": "https://siwazyw.tv/api.php/provide/vod/at/json_now/",
-      "jar": "./jar/pg.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/pg.jar",
       "searchable": 1,
       "quickSearch": 1
     },
@@ -2226,8 +2226,8 @@
       "name": "飘飘👍18j.tv",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/xyqxbpq.jar",
-      "spider": "./jar/xyqxbpq.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
+      "spider": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
       "ext": {
         "主页url": "https://18j.tv/"                                        ,
         "直接播放" : "1"                                                      ,
@@ -2244,7 +2244,7 @@
       "name": "飘飘👍300分类",
       "type": 3,
       "api": "csp_XYQHiker",
-      "jar": "./jar/Aoki.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/Aoki.jar",
       "filterable": 1,
       "ext": "./json/300分类.json"
     },
@@ -2254,7 +2254,7 @@
       "type": 3,
       "api": "csp_Cg51",
       "filterable": 1,
-      "jar": "./jar/182.jar"
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/182.jar"
     },
     {
       "key": "csp_XYQHiker_ACG漫画网",
@@ -2294,7 +2294,7 @@
       "name": "飘飘👍AIvin",
       "type": 1,
       "api": "http://lbapiby.com/api.php/provide/vod/",
-      "jar": "./jar/pg.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/pg.jar",
       "searchable": 1,
       "quickSearch": 1,
       "style": {"type": "rect", "ratio": 1.6}
@@ -2333,14 +2333,14 @@
         "图片"   : "data-src=\"&&\""                                      ,
         "分类"   : "视频一区$1#视频二区$29#视频三区$47"
       },
-      "jar": "./jar/xyqxbpq.jar"
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar"
     },
     {
       "key": "Bi8TV",
       "name": "飘飘👍Bi8TV",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/xyqxbpq.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
       "style": {"type": "rect", "ratio": 1.485},
       "ext": {
         "主页url": "https://v3.bi888.link/",
@@ -2357,7 +2357,7 @@
       "name": "飘飘👍CK资源",
       "type": 1,
       "api": "https://ckzy.me/api.php/provide/vod/",
-      "jar": "./jar/pg.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/pg.jar",
       "changeable": 0,
       "filterable": 1
     },
@@ -2388,7 +2388,7 @@
       "name": "飘飘👍lovedan艾旦",
       "type": 1,
       "api": "https://lovedan.net/api.php/provide/vod/",
-      "jar": "./jar/xc0126.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xc0126.jar",
       "filterable": 1
     },
     {
@@ -2460,7 +2460,7 @@
       "name": "飘飘👍骏马",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/xyqxbpq.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
       "filterable": 1,
       "ext": {
         "分类url": "https://junmatv.com/vodtype/{cateId}-{catePg}.html",
@@ -2475,8 +2475,8 @@
       "name": "飘飘👍夜夜新郎",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/xyqxbpq.jar",
-      "spider": "./jar/xyqxbpq.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
+      "spider": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
       "filterable": 0,
       "ext": "https://raw.githubusercontent.com/guot55/yg/main/lib/夜夜新郎.json"
     },
@@ -2485,7 +2485,7 @@
       "name": "飘飘👍癢癢",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/xyqxbpq.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
       "filterable": 1,
       "ext": {
         "分类url": "https://guochan.yangyangtv13.top/index.php/vod/show/id/{cateId}/page/{catePg}.html",
@@ -2499,7 +2499,7 @@
       "name": "飘飘👍滴滴",
       "type": 1,
       "api": "https://api.ddapi.cc/api.php/provide/vod/",
-      "jar": "./jar/pg.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/pg.jar",
       "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
       "recordable": 0,
       "style": {"type": "rect", "ratio": 1.33}
@@ -2552,7 +2552,7 @@
       "name": "飘飘👍淫水机资源",
       "type": 0,
       "api": "https://www.xrbsp.com/api/xml.php",
-      "jar": "./jar/pg.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/pg.jar",
       "searchable": 1,
       "quickSearch": 1
     },
@@ -2561,7 +2561,7 @@
       "name": "飘飘👍黄瓜",
       "type": 1,
       "api": "https://www.avre06.com/api.php/provide/vod/?ac=list",
-      "jar": "./jar/pg.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/pg.jar",
       "searchable": 1,
       "quickSearch": 1
     },
@@ -2570,7 +2570,7 @@
       "name": "飘飘👍葡萄",
       "type": 1,
       "api": "https://caiji.putaozyw.net/inc/apijson_vod_dx.php",
-      "jar": "./jar/pg.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/pg.jar",
       "searchable": 1,
       "quickSearch": 1
     },
@@ -2586,7 +2586,7 @@
       "name": "飘飘👍鲨鱼",
       "type": 1,
       "api": "http://shayuzy1.com/api.php/provide/vod/",
-      "jar": "./jar/pg.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/pg.jar",
       "searchable": 1,
       "quickSearch": 1
     },
@@ -2596,7 +2596,7 @@
       "type": 3,
       "api": "csp_MiMei",
       "filterable": 1,
-      "jar": "./jar/182.jar"
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/182.jar"
     },
     {
       "key": "semaozy.com",
@@ -2604,14 +2604,14 @@
       "type": 1,
       "filterable": 1,
       "api": "https://caiji.semaozy.net/inc/apijson_vod.php",
-      "jar": "./jar/pg.jar"
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/pg.jar"
     },
     {
       "key": "vv003",
       "name": "️飘飘👍薇薇珊",
       "type": 4,
       "api": "./json/00title05153.json",
-      "jar": "./jar/xc0126.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xc0126.jar",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
@@ -2621,8 +2621,8 @@
       "name": "飘飘👍高清小黄片",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/xyqxbpq.jar",
-      "spider": "./jar/xyqxbpq.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
+      "spider": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
       "ext": {
         "主页url": "http://gqxhp.top/",
         "分类": "高清一区$1#高清二区$2#高清三区$3#高清福利$33",
@@ -2634,8 +2634,8 @@
       "name": "飘飘👍女优色库",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/xyqxbpq.jar",
-      "spider": "./jar/xyqxbpq.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
+      "spider": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
       "style": {"ratio": 1.7},
       "ext": "./json/女优.json"
     },
@@ -2645,7 +2645,7 @@
       "type": 3,
       "playerType": 2,
       "api": "csp_XBPQ",
-      "jar": "./jar/xyqxbpq.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
       "filterable": 1,
       "ext": {
         "站名": "小幺女",
@@ -2677,8 +2677,8 @@
       "name": "飘飘👍天堂岛",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/xyqxbpq.jar",
-      "spider": "./jar/xyqxbpq.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
+      "spider": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
       "filterable": 1,
       "ext": {
         "主页url": "https://www.ttdao666.buzz",
@@ -2702,8 +2702,8 @@
       "name": "飘飘👍手鸡助手",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/xyqxbpq.jar",
-      "spider": "./jar/xyqxbpq.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
+      "spider": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
       "ext": {
         "请求头": "手机",
         "直接播放": "1",
@@ -2732,15 +2732,15 @@
         "分类ID": "/gaotype/&&.html",
         "分类url": "https://www.34gaobk.com/gaotype/{cateId}_{catePg}.html[https://www.34gaobk.com/gaotype/{cateId}.html]"
       },
-      "jar": "./jar/xyqxbpq.jar"
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar"
     },
     {
       "key": "成人重口",
       "name": "飘飘👍成人重口",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/xyqxbpq.jar",
-      "spider": "./jar/xyqxbpq.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
+      "spider": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
       "filterable": 1,
       "ext": {
         "发布地址": "1:https://www.crzk11.buzz/,2:www.crzk3.top",
@@ -2765,8 +2765,8 @@
       "name": "飘飘👍纤纤倫理",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/xyqxbpq.jar",
-      "spider": "./jar/xyqxbpq.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
+      "spider": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
       "playerType": 1,
       "filterable": 1,
       "ext": {
@@ -2802,8 +2802,8 @@
       "name": "飘飘👍亚瑟影库",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/xyqxbpq.jar",
-      "spider": "./jar/xyqxbpq.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
+      "spider": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
       "ext": {
         "主页url": "https://www.yasetube.com/",
         "直接播放": "1",
@@ -2825,7 +2825,7 @@
       "name": "飘飘👍玉兔资源",
       "type": 1,
       "api": "https://yutuzy10.com/api.php/provide/vod/",
-      "jar": "./jar/pg.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/pg.jar",
       "searchable": 1,
       "quickSearch": 1
     },
@@ -2834,14 +2834,14 @@
       "name": "飘飘👍老鸨资源",
       "type": 1,
       "api": "http://laobaozy.com/api.php/provide/vod/",
-      "jar": "./jar/pg.jar"
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/pg.jar"
     },
     {
       "key": "老色逼资源",
       "name": "飘飘👍老色逼资源(采集)",
       "type": 1,
       "api": "https://apilsbzy1.com/api.php/provide/vod/",
-      "jar": "./jar/pg.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/pg.jar",
       "searchable": 1,
       "quickSearch": 1
     },
@@ -2850,7 +2850,7 @@
       "name": "飘飘👍博天堂",
       "type": 0,
       "api": "http://bttcjz.com/inc/sapi.php",
-      "jar": "./jar/pg.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/pg.jar",
       "searchable": 1,
       "quickSearch": 1
     },
@@ -2859,7 +2859,7 @@
       "name": "飘飘👍肉視頻(點選點播才有東西)",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/xyqxbpq.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
       "ext": {
         "分类url": "https://rouvx2.xyz/t/{cateId}?order=createdAt&page={catePg}",
         "直接播放" : "1"                                                          ,
@@ -2871,8 +2871,8 @@
       "name": "飘飘👍色最色(點選點播才有東西)",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/xyqxbpq.jar",
-      "spider": "./jar/xyqxbpq.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
+      "spider": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
       "ext": {
         "主页url": "https://xn--zovv42dba.com/",
         "直接播放": "1",
@@ -2897,15 +2897,15 @@
       "api": "csp_XBPQ",
       "filterable": 1,
       "ext": "./json/我爱AV.json",
-      "jar": "./jar/xyqxbpq.jar"
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar"
     },
     {
       "key": "我爱AV",
       "name": "飘飘👍我爱AV社区",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/xyqxbpq.jar",
-      "spider": "./jar/xyqxbpq.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
+      "spider": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
       "playerType": 2,
       "filterable": 1,
       "ext": {
@@ -2927,7 +2927,7 @@
       "name": "飘飘👍沙咖影院",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/xyqxbpq.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
       "filterable": 1,
       "ext": {
         "数组"    : "stui-vodlist__thumb lazyload&&</a"                        ,
@@ -2949,8 +2949,8 @@
       "name": "飘飘👍花影视(點選點播才有東西)",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/xyqxbpq.jar",
-      "spider": "./jar/xyqxbpq.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
+      "spider": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
       "ext": {
         "数组": "col-6 col-sm-4 col-lg-3\">&&</div></div>",
         "图片": "data-original=\"&&\"",
@@ -2966,8 +2966,8 @@
       "name": "飘飘👍暗网(點選點播才有東西)",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/xyqxbpq.jar",
-      "spider": "./jar/xyqxbpq.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
+      "spider": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
       "style": {"ratio": 1.7},
       "ext": "./json/暗网.json"
     },
@@ -2976,7 +2976,7 @@
       "name": "飘飘👍中国性味",
       "type": 3,
       "api": "csp_XYQHiker",
-      "spider": "./jar/pg.jar",
+      "spider": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/pg.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
@@ -2988,7 +2988,7 @@
       "name": "飘飘👍台湾kiss",
       "type": 3,
       "api": "csp_XYQHiker",
-      "spider": "./jar/pg.jar",
+      "spider": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/pg.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
@@ -3000,7 +3000,7 @@
       "name": "飘飘👍亚色影库",
       "type": 3,
       "api": "csp_XYQHiker",
-      "spider": "./jar/pg.jar",
+      "spider": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/pg.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
@@ -3012,7 +3012,7 @@
       "name": "飘飘👍亚洲色吧(點選點播才有東西)",
       "type": 3,
       "api": "csp_XYQHiker",
-      "spider": "./jar/pg.jar",
+      "spider": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/pg.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
@@ -3024,7 +3024,7 @@
       "name": "飘飘👍动漫PRO(點選點播才有東西)",
       "type": 3,
       "api": "csp_XYQHiker",
-      "spider": "./jar/pg.jar",
+      "spider": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/pg.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
@@ -3036,7 +3036,7 @@
       "name": "飘飘👍好色TV",
       "type": 3,
       "api": "csp_XYQHiker",
-      "spider": "./jar/pg.jar",
+      "spider": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/pg.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
@@ -3048,7 +3048,7 @@
       "name": "飘飘👍色库TV",
       "type": 3,
       "api": "csp_XYQHiker",
-      "spider": "./jar/pg.jar",
+      "spider": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/pg.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
@@ -3060,7 +3060,7 @@
       "name": "飘飘👍直播1",
       "type": 3,
       "api": "csp_XYQHiker",
-      "spider": "./jar/pg.jar",
+      "spider": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/pg.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
@@ -3072,7 +3072,7 @@
       "name": "飘飘👍直播2",
       "type": 3,
       "api": "csp_XYQHiker",
-      "spider": "./jar/pg.jar",
+      "spider": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/pg.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
@@ -3107,7 +3107,7 @@
       "name": "飘飘👍直播大全",
       "type": 3,
       "api": "csp_XYQHiker",
-      "spider": "./jar/pg.jar",
+      "spider": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/pg.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
@@ -3119,7 +3119,7 @@
       "name": "飘飘👍热骚",
       "type": 3,
       "api": "csp_XYQHiker",
-      "spider": "./jar/pg.jar",
+      "spider": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/pg.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
@@ -3131,7 +3131,7 @@
       "name": "飘飘👍黄色仓库123",
       "type": 3,
       "api": "csp_XYQHiker",
-      "spider": "./jar/pg.jar",
+      "spider": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/pg.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
@@ -3143,7 +3143,7 @@
       "name": "飘飘👍黄色仓库啦",
       "type": 3,
       "api": "csp_XYQHiker",
-      "spider": "./jar/pg.jar",
+      "spider": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/pg.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
@@ -3155,7 +3155,7 @@
       "name": "飘飘👍酷爱成人网",
       "type": 3,
       "api": "csp_XYQHiker",
-      "spider": "./jar/pg.jar",
+      "spider": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/pg.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
@@ -3167,7 +3167,7 @@
       "name": "飘飘👍微密猫(點選點播才有東西)",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/xyqxbpq.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
       "ext": {
         "主页url": "https://maobao.vip/",
         "首页": "无圣光视频$wushebgguang/无圣光视频",
@@ -3185,8 +3185,8 @@
       "name": "飘飘👍金陵撸铁汉",
       "type": 3,
       "api": "csp_XBPQ",
-      "spider": "./jar/pg.jar",
-      "jar": "./jar/xyqxbpq.jar",
+      "spider": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/pg.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
       "ext": {
         "主页url": "https://jud.jllth9.motorcycles/cn/home/web/",
         "直接播放": "1",
@@ -3207,7 +3207,7 @@
       "name": "飘飘👍绝美视频",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/xyqxbpq.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
       "style": {"type": "rect", "ratio": 1.5},
       "ext": {
         "主页url": "https://www.juemei.fun/",
@@ -3220,7 +3220,7 @@
       "name": "飘飘👍sexBJcam",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/xyqxbpq.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
       "timeout": 120,
       "style": {"type": "rect", "ratio": 1.5},
       "ext": {
@@ -3236,9 +3236,9 @@
       "name": "飘飘👍蓝金鱼AV",
       "type": 3,
       "api": "csp_XBPQ",
-      "spider": "./jar/pg.jar",
+      "spider": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/pg.jar",
       "页面代理": "127.0.0.1:10172",
-      "jar": "./jar/xyqxbpq.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
       "ext": {
         "主页url": "https://cezeoj.ljyav7.beauty/cn/home/web/",
         "直接播放": "1",
@@ -3251,8 +3251,8 @@
       "name": "飘飘👍农夫&少妇(點選點播才有東西)",
       "type": 3,
       "api": "csp_XBPQ",
-      "spider": "./jar/pg.jar",
-      "jar": "./jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
+      "spider": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/pg.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -3267,7 +3267,7 @@
       "name": "飘飘👍婶婶(點選點播才有東西)",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -3288,7 +3288,7 @@
       "name": "飘飘👍妻妹(點選點播才有東西)",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -3311,7 +3311,7 @@
       "name": "飘飘👍弟弟",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -3551,7 +3551,7 @@
       "key": "py_香蕉",
       "name": "飘飘👍香蕉",
       "type": 3,
-      "api": "./py/py_香蕉.py",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/fastbuild7099/123/refs/heads/main/py/py_香蕉.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -3584,8 +3584,8 @@
       "name": "飘飘👍比卡比卡",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/xyqxbpq.jar",
-      "spider": "./jar/xyqxbpq.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
+      "spider": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
       "filterable": 1,
       "ext": "./json/比卡比卡.json"
     },
@@ -3594,7 +3594,7 @@
       "name": "飘飘👍顶级网曝",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/xyqxbpq.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
       "playerType": 2,
       "filterable": 0,
       "ext": {
@@ -3621,7 +3621,7 @@
       "name": "飘飘👍疯猫av",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/xyqxbpq.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
       "filterable": 0,
       "ext": "./json/疯猫av.json"
     },
@@ -3630,7 +3630,7 @@
       "name": "飘飘👍蜜桃屯",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/xyqxbpq.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
       "ext": {
         "二次截取": "class=\"block-post&&align=\"center",
         "数组": "target=\"_blank&&class=\"info-post",
@@ -3650,7 +3650,7 @@
       "name": "飘飘👍KISSAV(女优)",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/xyqxbpq.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -3676,7 +3676,7 @@
       "name": "飘飘👍KISSAV(标签)",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/xyqxbpq.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -3702,7 +3702,7 @@
       "name": "飘飘👍KISSAV",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/xyqxbpq.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -3728,7 +3728,7 @@
       "name": "飘飘👍猛男日妓",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/xyqxbpq.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -3753,7 +3753,7 @@
       "key": "最爱扒裤衩",
       "name": "飘飘👍最爱扒裤衩",
       "type": 3,
-      "jar": "./jar/xyqxbpq.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
       "api": "csp_XBPQ",
       "ext": {
         "请求头": "User-Agent$MOBILE_UA",
@@ -3769,7 +3769,7 @@
       "name": "飘飘👍农夫少妇",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/xyqxbpq.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -3784,7 +3784,7 @@
       "name": "飘飘👍AV小次郎",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/xyqxbpq.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -3811,7 +3811,7 @@
       "changeable": 1,
       "filterable": 1,
       "api": "csp_XBPQ",
-      "jar": "./jar/xyqxbpq.jar",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar",
       "ext": {
         "分类url": "https://hsds1.mom/index.php/vod/type/id/{cateId}/page/{catePg}.html",
         "分类": "国产❤️AV$1#日本と无码$9#欧美$2#麻豆传媒$3#明星❤️AI$4#三级伦理$6#5D动漫$7"
@@ -3821,7 +3821,7 @@
       "key": "py_色播",
       "name": "飘飘👍色色直播",
       "type": 3,
-      "api": "./py/py_色播.py",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/fastbuild7099/123/refs/heads/main/py/py_色播.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -3832,7 +3832,7 @@
       "name": "飘飘👍天天",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
+      "jar": "https://ghproxy.net/https://github.com/fastbuild7099/123/raw/refs/heads/main/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -4478,4 +4478,5 @@
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ]
 }
+
 
