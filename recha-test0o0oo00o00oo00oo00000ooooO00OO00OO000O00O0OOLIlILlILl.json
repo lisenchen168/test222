@@ -1018,10 +1018,10 @@
       "style": {"type": "rect", "ratio": 1.8}
     },
     {
-      "key": "8day",
+      "key": "8 天之前",
       "name": "爱萌萌👍七天資源",
       "type": 1,
-      "api": "https://8day.icu/api.php/provide/vod/at/json",
+      "api": "https://8 天之前.icu/api.php/provide/vod/at/json",
       "searchable": 1,
       "quickSearch": 1,
       "categories": [],
@@ -1312,7 +1312,7 @@
         "标题": "href=\"*\">&&</a>",
         "副标题": "class=\"label\">&&</span>",
         "链接": "href=\"&&\"",
-        "简介": "⚠️慢点撸，皮要掉了！！！",
+        "简介": "⚠️慢点撸,皮要掉了！！！",
         "分类url": "https://13av.com/type/{cateId}/{catePg}.html;;z",
         "分类": "角色剧情$5#直接开啪$6#主奴调教$7#凌辱快感$8#无码影视$24#中文字幕$9#制服诱惑$10#丝袜美腿$21#男友视角$20#多P群交$22#盗摄偷拍$23#女同欢愉$25"
       }
@@ -1710,7 +1710,7 @@
       "jar": "https://ghproxy.net/https://raw.githubusercontent.com/fastbuild7099/123/refs/heads/main/jar/pg.jar",
       "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
       "recordable": 0,
-      "style": {"type": "rect", "ratio": 1.33}
+      "style": {"type": "rect"， "ratio": 1.33}
     },
     {
       "key": "玩偶妹妹",
@@ -1736,26 +1736,26 @@
       "quickSearch": 0,
       "filterable": 0,
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/fastbuild7099/123/refs/heads/main/json/玩偶姐姐.json",
-      "style": {"type": "rect", "ratio": 1.6}
-    }，
+      "style": {"type": "rect"， "ratio": 1.6}
+    },
     {
       "key": "糖心",
       "name": "爱萌萌👍糖心次元",
       "type": 3,
-      "api": "csp_XBPQ"，
+      "api": "csp_XBPQ",
       "style": {"ratio": 1.7},
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/fastbuild7099/123/refs/heads/main/jar/xyqxbpq.jar"，
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/fastbuild7099/123/refs/heads/main/jar/xyqxbpq.jar",
       "ext": {
-        "数组": "<section&&</section"，
-        "副标题": "添加时间:&&</span>"，
-        "嗅探词": "cdn2020.com#m3u8"，
-        "分类url": "http://www.txcyeat.buzz/index.php/vodtype/{cateId}-{catePg}.html;;z"，
+        "数组": "<section&&</section",
+        "副标题": "添加时间:&&</span>",
+        "嗅探词": "cdn2020.com#m3u8",
+        "分类url": "http://www.txcyeat.buzz/index.php/vodtype/{cateId}-{catePg}.html;;z",
         "分类": "国产片商$32#节目企划$3#代理节目$2#麻豆原创$1#导演系列$5#MDS系列$6#MDX系列$7#MD系列$4#MDXS系列$8#兔子先生$10#大鸟十八$17#疯拍系列$18#KISS糖果屋$19#小鹏奇啪行$20#30天解密麻豆$22#突袭女优计划$23#女神羞羞研究所$24#小哥哥艾理$27#情趣K歌房$31#淫欲游戏王$40#麻豆不回家$41#叮叮映画$71#涩会$72#豚豚创媒$75#MDL系列$46#MMZ系列$50#MAD系列$53#MDWP系列$58#MSD系列$64#MDM恋爱咖啡$74#MDUS系列$78#MXJ系列$79#MKY系列$87#MAN系列$89#MCY系列$96#MDAG系列$100#MDHT系列$101#BLX系列$115#MPG系列$116#果冻传媒$11#皇家华人$12#吴梦梦无套系列$13#PsychoPorn色控$14#蜜桃影像传媒$15#天美传媒$45#乌鸦传媒$33#精东影业$34#SWAG$36#91制片厂$52#MSM性梦者$65#爱妃传媒$76#辣椒原创$80#O-STAR$81#肉肉传媒$91#渡边传媒$95#葵心娱乐$97#红斯灯影像$103#麻麻传媒$104#蝌蚪传媒$105#PussyHunter$106#桃花源$108#女优淫娃培训营$42#狼人插$54#女优擂台摔角狂热$55#恋爱巴士$61#男女优生死斗$66#情人劫密室逃脱$67#换妻$68#你好同学$69#禁欲小屋$77#鲍鱼的胜利$84#性爱自修室$88#春游记$92#心动的性号$93#情趣大富翁$94#寻宝吧女神$99#男优练习生$102#女神体育祭$110#麻豆高校$111#野外露初$112#星空无限传媒$47#乐播传媒$48#大象传媒$59#MINI传媒$62#糖心$73#葫芦影业$82#天马传媒$83#CCAV成人头条$90#性视界传媒$109#SA国际传媒$113#起点传媒$114#91茄子$117#草莓猛料$118"
       }
-    }，
+    },
     {
-      "key": "csp_XYQHiker_MOTV"，
-      "name": "爱萌萌👍MOTV"，
+      "key": "csp_XYQHiker_MOTV",
+      "name": "爱萌萌👍MOTV",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -1763,7 +1763,7 @@
       "filterable": 0,
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/fastbuild7099/123/refs/heads/main/json/motv.json",
       "style": {"type": "rect", "ratio": 1.6}
-    }，
+    },
     {
       "key": "avgle",
       "name": "爱萌萌👍AV.GL",
@@ -1776,7 +1776,7 @@
         "分类url": "https://av.gl/avtype/{cateId}-{catePg}.html",
         "分类": "日本有碼$Censored#日本無碼$Uncensored#FC2$FC2-PPV#無碼破解$Mosaic_Removed#中文字幕$CHN_SUB#MGS動画$MGS#寫真$Adult_IDOL#國產$Asian_Amateur#歐美成人$Western_Porn"
       }
-    }，
+    },
     {
       "key": "Zuise",
       "name": "最色",
@@ -1788,7 +1788,7 @@
       "filterable": 1,
       "timeout": 60,
       "ext": "proxy"
-    }，
+    },
     {
       "key": "最色影视",
       "name": "爱萌萌👍最色影视",
@@ -1797,7 +1797,7 @@
       "jar": "https://ghproxy.net/https://raw.githubusercontent.com/fastbuild7099/123/refs/heads/main/jar/fm.jar",
       "searchable": 1,
       "changeable": 0
-    }，
+    },
     {
       "key": "色色影视",
       "name": "爱萌萌👍色色影视",
@@ -1823,7 +1823,7 @@
         "分类ID": "id/&&.",
         "分类链接": "http://www.xbyc.cc/index.php/vod/type/id/{cateId}/page/{catePg}.html;;mz"
       }
-    }，
+    },
     {
       "key": "优异资源",
       "name": "爱萌萌👍优异资源",
@@ -4514,6 +4514,7 @@
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ]
 }
+
 
 
 
