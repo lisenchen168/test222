@@ -69,7 +69,7 @@
       "changeable": 0,
       "indexs": 0,
       "style": {"type": "rect", "ratio": 1.597}
-    }，
+    },
     {
       "key": "牛二配置",
       "name": "牛二｜配置中心",
@@ -80,7 +80,7 @@
       "changeable": 0,
       "indexs": 0,
       "style": {"type": "rect", "ratio": 1.597}
-    }，
+    },
     {
       "key": "直播转点播",
       "name": "⏭｜AV电视｜直播",
@@ -4514,6 +4514,7 @@
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ]
 }
+
 
 
 
