@@ -101,7 +101,8 @@ class Spider(Spider):
         result = {}
         result = {"class": [{"type_id": "latest-updates", "type_name": "最新视频🌠"},
                             {"type_id": "top-rated", "type_name": "最佳视频🌠"},
-                            {"type_id": "most-popular", "type_name": "热门影片🌠"}],
+                            {"type_id": "most-popular", "type_name": "热门影片🌠"},
+                            {"type_id": "models", "type_name": "名人🌠"}],
                  }
         return result
 
