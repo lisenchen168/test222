@@ -8,30 +8,7 @@
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
-        }, {
-            "key": "预告",
-            "name": "新片｜你好",
-            "type": 3,
-            "api": "csp_YGP",
-            "searchable": 0
-        }, {
-            "key": "本地",
-            "name": "本地｜潇洒",
-            "type": 3,
-            "api": "csp_LocalFile"
-        }, {
-            "key": "配置中心",
-            "name": "网盘｜配置",
-            "type": 3,
-            "api": "csp_Config",
-            "searchable": 0,
-            "changeable": 0,
-            "indexs": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            }
-        }, {
+    }，{
             "key": "影视配置",
             "name": "影视｜配置",
             "type": 3,
