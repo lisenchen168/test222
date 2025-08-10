@@ -43,7 +43,7 @@
                 "type": "rect",
                 "ratio": 1.597
             },
-            "jar": "./wex.jar"
+            "jar": "https://github.com/Journey4U/SVIP/raw/refs/heads/main/wex.jar"
         }, {
             "key": "厂长弹幕",
             "name": "厂长｜弹幕",
@@ -386,7 +386,7 @@
                 "site": "https://wp.0v.fit",
                 "danmu": true
             }
-        }, {
+    }， {
             "key": "夸克虎斑弹幕",
             "name": "虎斑｜4K弹幕",
             "type": 3,
@@ -401,7 +401,7 @@
                 "site": "http://103.45.162.207:20720",
                 "danmu": true
             }
-        }, {
+        }， {
             "key": "夸克下饭弹幕",
             "name": "下饭｜4K弹幕",
             "type": 3,
@@ -423,15 +423,15 @@
             "api": "csp_Wexleijing",
             "searchable": 1,
             "changeable": 1,
-            "jar": "./wex.jar"
-        }, {
+            "jar": "https://github.com/Journey4U/SVIP/raw/refs/heads/main/wex.jar"
+        }， {
             "key": "天翼",
             "name": "天翼｜4K",
             "type": 3,
             "api": "csp_Wextyso",
             "searchable": 1,
             "changeable": 0,
-            "jar": "./wex.jar"
+            "jar": "https://github.com/Journey4U/SVIP/raw/refs/heads/main/wex.jar"
         }, {
             "key": "盘他",
             "name": "盘他｜4K‍",
@@ -439,7 +439,7 @@
             "api": "csp_WexYDpanta",
             "searchable": 1,
             "changeable": 1,
-            "jar": "./wex.jar"
+            "jar": "https://github.com/Journey4U/SVIP/raw/refs/heads/main/wex.jar"
         }, {
             "key": "Emby",
             "name": "Emby｜4K",
@@ -447,7 +447,7 @@
             "api": "csp_Wexemby",
             "searchable": 1,
             "changeable": 1,
-            "jar": "./wex.jar"
+            "jar": "https://github.com/Journey4U/SVIP/raw/refs/heads/main/wex.jar"
         }, {
             "key": "星芽短剧",
             "name": "星芽｜短剧",
