@@ -1,7 +1,7 @@
 ﻿{
-    "spider": "./spider.jar",
+    "spider": "https://github.com/Journey4U/SVIP/raw/refs/heads/main/spider.jar",
     "wallpaper": "http://wenxintongxue.serv00.net/image",
-    "logo": "https://4708.kstore.space/logo.gif",
+    "logo": "https://raw.githubusercontent.com/lisenchen168/sshuahua/refs/heads/main/1752040338940.gif",
     "sites": [{
             "key": "豆瓣",
             "name": "豆瓣｜拾光",
