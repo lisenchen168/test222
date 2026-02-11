@@ -1,1 +1,17 @@
-{"id":"1","wenads":"保护隐私,请勿扫码支付 ","imads1":"https://8455.kstore.vip/bg.jpg","imads2":"https://8455.kstore.vip/bg.jpg","imads3":"直供学习请勿商用，24小时内删除测试","imads4":"","imads5":"","viads":"NB瑶瑶"}
+[
+    {"name": "黑木耳","type": 1,"api": "https://www.heimuer.tv/api.php/provide/vod/","note": "需要代理"},
+    {"name": "海外","type": 1,"api": "https://hw8.live/api.php/provide/vod/","note": "需要代理"},
+    {"name": "海外看资源","type": 1,"api": "https://haiwaikan.com/api.php/provide/vod/","note": "需要代理"},
+    {"name": "紅牛资源","type": 1,"api": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/"},
+    {"name": "量子云","type": 1,"api": "https://cj.lziapi.com/api.php/provide/vod/"},
+    {"name": "39影視","type": 1,"api": "https://www.39kan.com/api.php/provide/vod/"},
+    {"name": "卧龙资源","type": 1,"api": "https://collect.wolongzyw.com/api.php/provide/vod/"},
+    {"name": "金鹰资源","type": 1,"api": "https://jyzyapi.com/provide/vod/from/jinyingm3u8/"},
+    {"name": "光速资源","type": 1,"api": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/"},
+    {"name": "U酷资源","type": 1,"api": "https://api.ukuapi.com/api.php/provide/vod/"},
+    {"name": "樱花资源网","type": 1,"api": "https://m3u8.apiyhzy.com/api.php/provide/vod/"},
+    {"name": "天空资源","type": 1,"api": "https://m3u8.tiankongapi.com/api.php/provide/vod/from/tkm3u8/"},
+    {"name": "天空资源","type": 1,"api": "http://api.tiankongapi.com/api.php/provide/vod/"},
+    {"name": "飞速资源","type": 1,"api": "https://www.feisuzy.com/api.php/provide/vod/"},
+    {"name": "飞速资源","type": 1,"api": "https://m3u8.feisuzyapi.com/api.php/provide/vod/"},
+    {"name": "fszy1飞速资源2","type": 1,"api": "http://fszy1.com/api.php/provide/vod/"}]
